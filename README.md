@@ -1,3 +1,3 @@
 # CS320
-Boston University/n
+Boston University\
 Fall 2021
